@@ -1,0 +1,16 @@
+DiagnosisID,DiagnosisName,Category
+1,Hypertension,Chronic Disease
+2,Type 2 Diabetes,Chronic Disease
+3,Migraine,Neurological
+4,Asthma,Respiratory
+5,Arthritis,Musculoskeletal
+6,Eczema,Dermatological
+7,Anxiety Disorder,Psychiatric
+8,Common Cold,Infectious Disease
+9,Gastritis,Digestive
+10,Conjunctivitis,Ophthalmological
+11,Sinusitis,ENT
+12,Hypertension Crisis,Cardiovascular
+13,Bronchitis,Respiratory
+14,Lower Back Pain,Musculoskeletal
+15,Allergic Rhinitis,Allergic
