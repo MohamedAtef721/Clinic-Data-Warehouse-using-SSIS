@@ -4,7 +4,7 @@
 [![SSIS](https://img.shields.io/badge/SSIS-Integration%20Services-blue)](https://docs.microsoft.com/en-us/sql/integration-services)
 [![Status](https://img.shields.io/badge/Status-Complete-brightgreen)]()
 
-A complete **end-to-end Data Warehouse solution** for healthcare analytics, built with Microsoft SQL Server, SSIS
+An end-to-end Clinic Data Warehouse and ETL solution built with SQL Server and SSIS to transform raw healthcare data into a structured, analytics-ready Data Warehouse. The project implements a Staging Layer, Star Schema, SCD Type 2, Stored Procedures, and Master SSIS orchestration to manage data extraction, transformation, and loading across patients, doctors, clinics, diagnoses, and visits, providing a reliable foundation for healthcare reporting and business intelligence.
 
 ---
 
