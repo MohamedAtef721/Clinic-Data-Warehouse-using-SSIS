@@ -176,7 +176,7 @@ Includes:
 
 **Mohamed Atef**
 
-- Data Analyst | BI Developer  
+- Data Analyst | Power BI Developer  
 - AI & Data Science Graduate  
 
 ---
