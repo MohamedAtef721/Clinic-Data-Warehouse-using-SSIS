@@ -1,6 +1,6 @@
 # 🏥 Clinic Data Warehouse (DWH) Project
 
-[![SQL Server](https://img.shields.io/badge/SQL%20Server-2019-red?logo=microsoft-sql-server)](https://www.microsoft.com/sql-server)
+[![SQL Server](https://img.shields.io/badge/SQL%20Server-2025-red?logo=microsoft-sql-server)](https://www.microsoft.com/sql-server)
 [![SSIS](https://img.shields.io/badge/SSIS-Integration%20Services-blue)](https://docs.microsoft.com/en-us/sql/integration-services)
 [![Status](https://img.shields.io/badge/Status-Complete-brightgreen)]()
 
@@ -63,7 +63,7 @@ CSV Files → SSIS → Staging Layer → ETL → Data Warehouse → Power BI
 
 ## ⚙️ Technologies Used
 
-- **SQL Server 2002**
+- **SQL Server 2025**
 - **SSIS (SQL Server Integration Services)**
 - **T-SQL (Stored Procedures)**
 - **CSV Files**
@@ -176,7 +176,7 @@ Includes:
 
 **Mohamed Atef**
 
-- Data Analyst | Power BI Developer  
+- Data Analyst | BI Developer  
 - AI & Data Science Graduate  
 
 ---
