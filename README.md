@@ -5,7 +5,7 @@
 [![Status](https://img.shields.io/badge/Status-Complete-brightgreen)]()
 
 An end-to-end Clinic Data Warehouse and ETL solution built with SQL Server and SSIS to transform raw healthcare data into a structured, analytics-ready Data Warehouse. The project implements a Staging Layer, Star Schema, SCD Type 2, Stored Procedures, and Master SSIS orchestration to manage data extraction, transformation, and loading across patients, doctors, clinics, diagnoses, and visits, providing a reliable foundation for healthcare reporting and business intelligence.
-
+![Project Overview](Images/Clinic-Data-Warehouse-using-SSIS1.png)
 ---
 
 ## 📌 Project Overview
