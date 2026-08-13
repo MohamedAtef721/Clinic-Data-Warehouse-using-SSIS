@@ -163,21 +163,10 @@ Includes:
 ---
 
 
-## 📈 Future Improvements
-
-- Automate using SQL Server Agent  
-- Implement Incremental Load  
-- Enhance Logging System  
-- Build Advanced Power BI Dashboards  
-
----
-
 ## 👨‍💻 Author
 
 **Mohamed Atef**
-
-- Data Analyst | BI Developer  
-- AI & Data Science Graduate  
+Data Analyst | BI Developer  
 
 ---
 
