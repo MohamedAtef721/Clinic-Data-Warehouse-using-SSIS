@@ -164,13 +164,12 @@ Includes:
 ---
 
 
-## 👨‍💻 Author
+## ☕ Let's Connect
 
-**Mohamed Atef**
-Data Analyst | BI Developer  
+Let's stay in touch! Feel free to connect with me on the following platforms:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-atef22/)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&labelColor=000000&color=000000)](https://mohamedatef-ten.vercel.app/)
+
 
 ---
-
-## ⭐ Support
-
-If you found this project useful, please give it a ⭐ on GitHub!
